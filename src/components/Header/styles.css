@@ -1,0 +1,28 @@
+header {
+  /* background-color: black; */
+  /* color: white; */
+  height: 9em;
+}
+
+#logo {
+  padding-top: 2em;
+  padding-bottom: 2em;
+  padding-left: 6em;
+  height: 70px;
+}
+
+#nav {
+  text-decoration: none;
+  float: right;
+}
+
+ul {
+  list-style-type: none;
+  padding-top: 1.5em;
+  margin-right: 6em;
+}
+
+li {
+  display: inline;
+  padding-right: 3em;
+}

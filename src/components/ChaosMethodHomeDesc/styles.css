@@ -1,0 +1,11 @@
+#chaos-method-section {
+    text-align: center;
+    height: 600px;
+}
+#chaos-title-section {
+    display: grid;
+}
+
+#emphasized-title {
+    color: yellow;
+}
