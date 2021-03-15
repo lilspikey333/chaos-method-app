@@ -9,10 +9,10 @@ function Header() {
       <nav id="nav">
         <ul>
           <li>
-            <a href="">Home</a>
+            <h3>Home</h3>
           </li>
           <li>
-            <a href="">The Chaos Method</a>
+            <h3>The Chaos Method</h3>
           </li>
           <li>Services</li>
           <li>Your Guide</li>
